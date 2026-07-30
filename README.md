@@ -44,25 +44,6 @@ This project is built using the **PlantVillage dataset** and demonstrates the pr
 
 ---
 
-## 🖼️ Application Preview
-
-### Home Page
-
-> Add a screenshot here
-
-```
-screenshots/home.png
-```
-
-### Prediction Result
-
-> Add a screenshot here
-
-```
-screenshots/result.png
-```
-
----
 
 ## 🌱 Supported Crops
 
@@ -131,34 +112,6 @@ AgroVision-AI/
 
 ---
 
-## 🚀 Installation
-
-### Clone the repository
-
-```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
-```
-
-### Navigate to the project
-
-```bash
-cd YOUR_REPOSITORY
-```
-
-### Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### Run the application
-
-```bash
-streamlit run app.py
-```
-
----
-
 ## 📊 How It Works
 
 1. Upload a plant leaf image.
@@ -210,9 +163,7 @@ B.Tech Computer Science & Engineering (Data Science)
 
 Jamia Millia Islamia
 
-GitHub: https://github.com/YOUR_USERNAME
-
-LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+LinkedIn: https://www.linkedin.com/in/md-salman-ali-8a301a324/
 
 ---
 
