@@ -1,7 +1,7 @@
 # 🌿 AgroVision AI - Plant Disease Detection System
 
 <p align="center">
-  <img src="logo.png" alt="AgroVision AI Logo" width="180">
+  <img src="assets/logo.png" alt="AgroVision AI Logo" width="180">
 </p>
 
 <p align="center">
