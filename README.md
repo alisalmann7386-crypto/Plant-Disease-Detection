@@ -3,8 +3,6 @@
 <p align="center">
   <img src="assets/logo.png" alt="AgroVision AI Logo" width="180">
 </p>
-
-  🚀 <a href="https://plant-disease-detection-s.streamlit.app/">Live Demo</a>
 </p>
 <p align="center">
   <b>AI-Powered Plant Disease Detection using Deep Learning</b><br>
@@ -21,7 +19,12 @@
 </p>
 
 ---
-
+<p align="center">
+  <b>AI-Powered Plant Disease Detection using Deep Learning</b><br>
+  Built with TensorFlow, Keras, and Streamlit
+  <br><br>
+  🚀 <a href="https://plant-disease-detection-s.streamlit.app/">Live Demo</a>
+</p>
 
 ## 📌 Overview
 
