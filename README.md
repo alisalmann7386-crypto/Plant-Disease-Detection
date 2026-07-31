@@ -19,13 +19,10 @@
 </p>
 
 ---
-<p align="center">
-  <b>AI-Powered Plant Disease Detection using Deep Learning</b><br>
-  Built with TensorFlow, Keras, and Streamlit
-  <br><br>
-  🚀 <a href="https://plant-disease-detection-s.streamlit.app/">Live Demo</a>
-</p>
+## 🚀 Live Demo
 
+🔗 **Live Website:**  
+https://plant-disease-detection-s.streamlit.app/
 ## 📌 Overview
 
 **AgroVision AI** is an AI-powered web application that detects plant diseases from leaf images using a Convolutional Neural Network (CNN). The application provides accurate disease predictions along with confidence scores, disease descriptions, symptoms, treatment recommendations, prevention measures, and a downloadable PDF diagnostic report.
