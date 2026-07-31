@@ -23,7 +23,7 @@
   <b>AI-Powered Plant Disease Detection using Deep Learning</b><br>
   Built with TensorFlow, Keras, and Streamlit
   <br><br>
-  🚀 <a href="https://your-app-name.streamlit.app">Live Demo</a>
+  🚀 <a href="https://plant-disease-detection-s.streamlit.app/">Live Demo</a>
 </p>
 
 ## 📌 Overview
